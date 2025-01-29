@@ -12,8 +12,7 @@ export const EXPERIENCES = [
     role: "Frontend Developer Intern",
     company: "CrackQuant",
     description: [
-      `A Frontend Developer where I Create the simulations for the Quant Questions. And Help in managing the backend also`,
-      ` `,
+      `A Frontend Developer where I Create the simulations for the Quant Questions. And Help in managing the backend also.`,
     ],
     technologies: [
       "Next.js 14",
