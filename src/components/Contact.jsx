@@ -13,7 +13,7 @@ const Contact = () => {
         transition={{ duration: 0.5 }}
         className="my-10 text-center text-4xl"
       >
-        If Any Queries, Reach out to me at given mail
+     Get in touch
       </motion.h2>
       <motion.div
         whileInView={{ opacity: 1, y: 0 }}
