@@ -1,6 +1,6 @@
 import Project from "../assets/projects/Project.jpg";
 import grocery from "../assets/projects/grocery.jpg";
-import MalwareClassifier from "../assets/projects/malware-classification.jpg";
+import pass from "../assets/projects/pass.jpg";
 
 export const HERO_CONTENT = `With over 1 year of experience in internships, I have developed strong skills in front-end technologies (React, Next.js,TypeScript) and back-end technologies (Node.js, MySQL, MongoDB), along with expertise in Video Editing and Canva. My goal is to learn DevOps and leverage this expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -82,7 +82,7 @@ export const PROJECTS = [
   },
   {
     title: "CipherForge",
-    image: MalwareClassifier,
+    image: pass,
     description: [
       "Build a Password Generate Web App in my learning days of Web Development.",
     ],
