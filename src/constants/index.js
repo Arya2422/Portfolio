@@ -12,7 +12,9 @@ export const EXPERIENCES = [
     role: "Frontend Developer Intern",
     company: "CrackQuant",
     description: [
-      `A Frontend Developer where I Create the simulations for the Quant Questions. And Help in managing the backend also.`,
+      `As a Frontend Developer at Crack Quant, I specialize in building engaging simulations for quant questions, driving the development of interactive learning experiences.`,
+       `I collaborate on curating and suggesting innovative questions that enrich the question bank, ensuring the content stays relevant and challenging.`,
+       `I also play a key role in backend integrations, from connecting APIs to managing Firebase for seamless sign-in and sign-up functionalities.`,
     ],
     technologies: [
       "Next.js 14",
