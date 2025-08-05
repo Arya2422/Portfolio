@@ -8,41 +8,78 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "January 2024 - Present",
-    role: "Frontend Engineer Intern",
-    company: "CrackQuant",
+    year: "May 2025 - Present",
+    role: "Full-Stack Developer",
+    company: "Reliance Industries Limited",
     description: [
-      `As a Frontend Developer at Crack Quant, I specialize in building engaging simulations for quant questions, driving the development of interactive learning experiences.`,
-      `I collaborate on curating and suggesting innovative questions that enrich the question bank, ensuring the content stays relevant and challenging.`,
-      `I also play a key role in backend integrations, from connecting APIs to managing Firebase for seamless sign-in and sign-up functionalities.`,
+      `Built a full-stack MOC (Management of Change) Tracking System improving regulatory compliance by 25%.`,
+      `Designed modular, responsive UIs with React.js and Tailwind CSS for workflows like Initiation, Verification, and Approval.`,
+      `Developed RESTful APIs using Node.js and integrated Skelta BPM APIs for role-based task routing.`,
+      `Implemented dashboards with filters, file uploads, auto-generated audit trails, and role-based access control.`,
     ],
     technologies: [
-      "Next.js 14",
-      "SEO",
       "React.js",
-      "Javascript",
-      "TypeScript",
-      "Rest Api",
-      "ExpressJs"
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "REST APIs",
+      "MongoDB",
+      "Skelta BPM"
     ],
   },
   {
-    year: "June 2023 - August 2023",
-    role: "Frontend Developer Intern",
-    company: "Oasis Infobyte",
+    year: "March 2025 - Present",
+    role: "Full-Stack Developer Intern",
+    company: "ShowTime",
     description: [
-      `A full-stack web application with capabilities for ordering a good Taste of food.`,
-      `  It can use the functionalities such as Selecting the restaurant, ordering food, tracking the order,etc. `,
+      `Developed a mobile pet care app for Southeast Asia using React Native and Node.js, enhancing market reach.`,
+      `Implemented onboarding, pet profile management, vaccination tracking, and appointment scheduling.`,
+      `Built a gamified betting website with dynamic rewards, profile upgrades, and integrated frontend/backend logic.`,
     ],
     technologies: [
-      "Next.js 14",
-      "SEO",
-      "React.js",
-      "Python",
-      "Javascript",
-      "TypeScript",
+      "React Native",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "REST APIs",
+      "Figma"
     ],
   },
+  {
+    year: "December 2024 - February 2025",
+    role: "Full-Stack Developer Intern",
+    company: "CrackQuant",
+    description: [
+      `Built a robust e-commerce clothing platform with features like auth, cart, live tracking, Razorpay payments, and an admin dashboard.`,
+      `Created interactive QuantAnalytics simulations covering probability and expected value.`,
+    ],
+    technologies: [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "Razorpay",
+      "REST APIs"
+    ],
+  },
+  // {
+  //   year: "June 2024 - July 2024",
+  //   role: "Full-Stack Developer Intern",
+  //   company: "Foody.com",
+  //   description: [
+  //     `Developed a food ordering and delivery app with full-stack features like registration, auth, live order tracking, and payments.`,
+  //     `Enabled users to select restaurants, place orders, and monitor delivery status through a responsive UI.`,
+  //   ],
+  //   technologies: [
+  //     "React.js",
+  //     "Next.js",
+  //     "Node.js",
+  //     "MongoDB",
+  //     "TypeScript",
+  //     "REST APIs"
+  //   ],
+  // },
   {
     year: "March 2023 - December 2023",
     role: "Web Developer (Robotics Club) Iris Club",
